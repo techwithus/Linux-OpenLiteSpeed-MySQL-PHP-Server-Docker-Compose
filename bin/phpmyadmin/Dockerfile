@@ -1,2 +1,3 @@
 FROM phpmyadmin/phpmyadmin
-LABEL maintainer="Sashwat K <sashwat0001@gmail.com>"
+LABEL createdby="Sashwat K <sashwat0001@gmail.com>"
+LABEL maintainer="Dev <dev@techwithus.com>"
